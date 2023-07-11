@@ -63,12 +63,28 @@ values("SNS Institutions, Coimbatore","bloodbank@gmail.com","8610361091");
 
 
 INSERT INTO pages (page_id, page_name, page_type, page_data) VALUES
-(2, 'Why Become Donor', 'donor', '<span style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify;">Blood is the most precious gift that anyone can give to another person — the gift of life. A decision to donate your blood can save a life, or even several if your blood is separated into its components — red cells, platelets and plasma — which can be used individually for patients with specific conditions. Safe blood saves lives and improves health. Blood transfusion is needed for:
-1)women with complications of pregnancy, such as ectopic pregnancies and haemorrhage before, during or after childbirth.
-2)children with severe anaemia often resulting from malaria or malnutrition.
-3)people with severe trauma following man-made and natural disasters.
-4)many complex medical and surgical procedures and cancer patients.
-It is also needed for regular transfusions for people with conditions such as thalassaemia and sickle cell disease and is used to make products such as clotting factors for people with haemophilia. There is a constant need for regular blood supply because blood can be stored for only a limited time before use. Regular blood donations by a sufficient number of healthy people are needed to ensure that safe blood will be available whenever and wherever it is needed.</span>'),
+(2, 'Why Become Donor', 'donor', '<span style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; font-size: 14px; text-align: justify;">Every two seconds, someone in the world needs blood. By donating blood, you have the power to save lives and make a significant impact on the well-being of others. Here are compelling reasons why you should consider becoming a blood donor:
+
+1. Saving Lives: Donating blood is a selfless act that directly contributes to saving lives. Patients undergoing surgeries, facing medical emergencies, or fighting life-threatening conditions rely on blood transfusions to survive. Your donation can provide them with a lifeline and a chance at recovery.
+
+2. Essential for Medical Treatments: Blood transfusions are a crucial component of various medical treatments and procedures. Individuals with chronic illnesses, such as cancer or blood disorders, often require frequent transfusions to manage their conditions effectively. By donating blood, you provide them with the necessary support and improve their quality of life.
+
+3. Emergency Preparedness: Disasters, accidents, and unforeseen emergencies can result in an urgent need for blood. By donating regularly, you help maintain an adequate blood supply, ensuring that hospitals and medical facilities are prepared to respond swiftly to emergencies. Your donation can make a critical difference in emergency situations and assist in saving lives when time is of the essence.
+
+4. Reducing Shortages: Blood shortages can occur due to seasonal fluctuations, increased demand, or unforeseen events. By donating blood, you contribute to reducing these shortages and ensuring a stable blood supply for hospitals and patients. Your generosity helps prevent delays in medical treatments and provides reassurance to individuals in need of blood.
+
+5. Health Benefits for the Donor: Donating blood offers health benefits for the donor as well. Regular blood donation helps maintain healthy iron levels in the body, reducing the risk of health conditions such as iron overload. It also stimulates the production of fresh red blood cells, promoting cardiovascular health. Furthermore, each donation involves a mini-health check-up, as your blood is tested for various infections and conditions, allowing you to stay informed about your own health status.
+
+6. Giving Back to the Community: Blood donation is a meaningful way to give back to your community and make a positive impact on society. By becoming a donor, you contribute to the well-being of others, fostering a sense of unity and compassion. Your act of kindness inspires and encourages others to follow in your footsteps, creating a ripple effect of generosity and goodwill.
+
+7. Simple and Safe Process: Donating blood is a straightforward and safe process. Trained medical professionals carefully guide you through the process, ensuring your comfort and well-being. The donation itself usually takes only a short amount of time, and the body replenishes the donated blood within a few weeks. With proper screening procedures and strict adherence to safety protocols, blood donation is a secure and reliable process.
+
+Conclusion
+
+Donating blood is a powerful way to make a tangible and life-saving difference in the world. Your donation can provide hope, relief, and a second chance at life for individuals facing challenging medical situations. Join the ranks of countless donors who have touched lives and become a part of a compassionate community that supports one another through the gift of blood donation.
+
+Take the step today and become a blood donor. Your contribution matters, and together, we can transform lives, one donation at a time.
+.</span>'),
 (3, 'About Us ', 'aboutus', '<span style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;, Arial, sans-serif; text-align: justify;">Blood bank is a place where blood bag that is collected from blood donation events is stored in one place. The term “blood bank” refers to a division of a hospital laboratory where the storage of blood product occurs and where proper testing is performed to reduce the risk of transfusion related events . The process of managing the blood bag that is received from the blood donation events needs a proper and systematic management. The blood bag must be handled with care and treated thoroughly as it is related to someone’s life. The development of Web-based Blood Bank And Donation Management System (BBDMS) is proposed to provide a management functional to the blood bank in order to handle the blood bag and to make entries of the individuals who want to donate blood and who are in need.</span>');
 
 
